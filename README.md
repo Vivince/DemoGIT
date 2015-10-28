@@ -1,2 +1,3 @@
 # DemoGIT
-domo de git
+démo de git
+et modif via github
